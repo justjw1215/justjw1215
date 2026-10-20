@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm HOO JIA WEI!
 
-<!--
-**justjw1215/justjw1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm passionate about technology and currently expanding my skills in software development!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Currently learning: **GitHub, HTML/CSS, JavaScript & Web Development**
+- 🎯 My goals: **Build impactful projects and write clean code**
+- 💬 Ask me about: **Programming basics and tech trends**
+- 📫 How to reach me: **hoojiawei@graduate.utm.my**
+
+---
+
+### 🛠️ Tech Stack & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Hoo Jia Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
+
+---
+
+> *"Continuous learning is the key to unlocking potential."*
